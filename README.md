@@ -1,5 +1,5 @@
 ---
-icon: hand-wave
+icon: worm
 cover: https://gitbookio.github.io/onboarding-template-images/header.png
 coverY: 0
 layout:
@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# Welcome
+# Whitepaper: BriSaKa Protocol
 
 Welcome to the tarter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
 
