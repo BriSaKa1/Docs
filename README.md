@@ -1,6 +1,6 @@
 ---
 icon: worm
-cover: .gitbook/assets/BriSaKa Header (2).png
+cover: .gitbook/assets/BriSaKa Header.png
 coverY: 0
 layout:
   cover:
