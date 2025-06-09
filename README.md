@@ -53,8 +53,8 @@ Fragmented user experiences, custodial risks, and exploitative monetization in W
 → 300M+ multi-chain wallet users (2027)\
 → Monetized social engagement gap
 
-**Team**: Ex-Chainlink engineer, ML PhD, blockchain ops veteran.\
-**Audits**: CertiK/Quantstamp + bug bounty.
+**Team**: AI & Blockchain Engineer, PhD Management of Blockchain with a tech background & a blockchain ops veteran.\
+**Audits**:  bug bounty.
 
 **Why Partner?**\
 First-mover in composable:\
