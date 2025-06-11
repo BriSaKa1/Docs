@@ -29,7 +29,7 @@ Fragmented user experiences, custodial risks, and exploitative monetization in W
 **Solution Architecture**
 
 1. **Provably Fair Gaming**: On-chain minigames (RPS/Tic-Tac-Toe) w/ Chainlink VRF + USDT/$BSK rewards.
-2. **Self-Custody Wallet**: Multi-sig, multi-chain (BSC/Ethereum-first) for asset control.
+2. **Self-Custody Wallet**: BSC chain for asset control.
 3. **Tokenized Social Layer**:
    * Micropayments ($BSK/USDT) for engagement (likes/shares)
    * AI copyright verification → NFT minting
@@ -44,8 +44,6 @@ Fragmented user experiences, custodial risks, and exploitative monetization in W
 **Technical Highlights**
 
 * Audited Solidity contracts (OpenZeppelin)
-* IPFS/Filecoin storage
-* Hybrid AI oracles for content verification
 * React/Tailwind frontend + PWA
 
 **Market Positioning**\
@@ -61,4 +59,4 @@ First-mover in composable:\
 `Play → Own → Create → Build`\
 with built-in token sinks & cross-component utility
 
-{% file src=".gitbook/assets/Whitepaper_ BriSaKa Protocol (1).pdf" %}
+{% file src=".gitbook/assets/Whitepaper_ BriSaKa Protocol1.0.pdf" %}
